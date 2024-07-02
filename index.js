@@ -12,5 +12,5 @@ updateData();
 
 setInterval(updateData, 1000);
 
-document.getElementById("slack-name").textContent = "KOSI OBUEKWE";
+document.getElementById("slack-name").textContent = "VIVIAN";
 document.getElementById("my-track").textContent = "Frontend";
